@@ -6,3 +6,6 @@ c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homew
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.exe.config
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Sequence\obj\Debug\Sequence.exe
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Sequence\obj\Debug\Sequence.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Sequence\obj\Debug\Sequence.csprojResolveAssemblyReference.cache

@@ -19,37 +19,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoribalCode", "HoribalCode\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1A6A27D1-F6DC-4829-9DBD-346E93C6A196}"
 	ProjectSection(SolutionItems) = preProject
+		csharp-and-dot-net-framework.txt = csharp-and-dot-net-framework.txt
+		list-of-IDEs.txt = list-of-IDEs.txt
 		Programing-Languadges.txt = Programing-Languadges.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curent_Date_Time", "Curent_Date_Time\Curent_Date_Time.csproj", "{676D4FA8-1FF4-4B59-953A-A1F107729BB2}"
+EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 8
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://bozhikov.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = HelloSharp\\HelloSharp.csproj
-		SccProjectName1 = HelloSharp
-		SccLocalPath1 = HelloSharp
-		SccProjectUniqueName2 = PrintMyName\\PrintMyName.csproj
-		SccProjectName2 = PrintMyName
-		SccLocalPath2 = PrintMyName
-		SccProjectUniqueName3 = Numbers\\Numbers.csproj
-		SccProjectName3 = Numbers
-		SccLocalPath3 = Numbers
-		SccProjectUniqueName4 = FirstNameLAstName\\FirstNameLAstName.csproj
-		SccProjectName4 = FirstNameLAstName
-		SccLocalPath4 = FirstNameLAstName
-		SccProjectUniqueName5 = SqareRoot\\SqareRoot.csproj
-		SccProjectName5 = SqareRoot
-		SccLocalPath5 = SqareRoot
-		SccProjectUniqueName6 = Sequence\\Sequence.csproj
-		SccProjectName6 = Sequence
-		SccLocalPath6 = Sequence
-		SccProjectUniqueName7 = HoribalCode\\HoribalCode.csproj
-		SccProjectName7 = HoribalCode
-		SccLocalPath7 = HoribalCode
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -83,6 +60,10 @@ Global
 		{31126794-5E9F-4F8B-8A28-D8F1CD777A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31126794-5E9F-4F8B-8A28-D8F1CD777A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31126794-5E9F-4F8B-8A28-D8F1CD777A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676D4FA8-1FF4-4B59-953A-A1F107729BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676D4FA8-1FF4-4B59-953A-A1F107729BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676D4FA8-1FF4-4B59-953A-A1F107729BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676D4FA8-1FF4-4B59-953A-A1F107729BB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

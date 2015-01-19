@@ -11,7 +11,9 @@ namespace DivideBy7And5
             
             //Input from the use 
 
-            
+            Console.WriteLine("Welcom to the program that finds if a number is devided by 5 and 7 at the same time");
+            Console.WriteLine("_____________________________________________________________________________");
+            Console.WriteLine("Input your number in integer way ;)");
             string inputNumber = Console.ReadLine();
             //VerificTION OF THE STRING 
             int number;

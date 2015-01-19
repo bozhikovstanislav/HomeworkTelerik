@@ -8,7 +8,9 @@ namespace ThirdDigit7
             //Problem 5 Third Digit is 7
             //Write an expression that checks for given integer
             //if its third digit from right-to-left is 7.
-
+            Console.WriteLine("Welcom to the program for finding if digit is in the tird place  in a number");
+            Console.WriteLine("_____________________________________________________________________________");
+            Console.WriteLine("Input your number in integer way ;)");
             string a = Console.ReadLine();
             int number;
             bool isNumber = int.TryParse(a, out number);

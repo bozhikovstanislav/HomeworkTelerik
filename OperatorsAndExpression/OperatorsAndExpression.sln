@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdDigit7", "ThirdDigit7\ThirdDigit7.csproj", "{5B1F2160-E0F1-4C96-889A-363E904154BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourDigitNumber", "FourDigitNumber\FourDigitNumber.csproj", "{C072E39C-2F71-4BA8-8A7C-7719A86FFBB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5B1F2160-E0F1-4C96-889A-363E904154BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B1F2160-E0F1-4C96-889A-363E904154BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B1F2160-E0F1-4C96-889A-363E904154BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C072E39C-2F71-4BA8-8A7C-7719A86FFBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C072E39C-2F71-4BA8-8A7C-7719A86FFBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C072E39C-2F71-4BA8-8A7C-7719A86FFBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C072E39C-2F71-4BA8-8A7C-7719A86FFBB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

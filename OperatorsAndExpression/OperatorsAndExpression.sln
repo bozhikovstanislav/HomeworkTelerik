@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEven", "OddEven\OddEven.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GravitationOnMoon", "GravitationOnMoon\GravitationOnMoon.csproj", "{BA202350-503D-4D68-95DD-B5B70DD71B74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideBy7And5", "DivideBy7And5\DivideBy7And5.csproj", "{AFD838E6-2370-4097-8996-208DE66161C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BA202350-503D-4D68-95DD-B5B70DD71B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA202350-503D-4D68-95DD-B5B70DD71B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA202350-503D-4D68-95DD-B5B70DD71B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD838E6-2370-4097-8996-208DE66161C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD838E6-2370-4097-8996-208DE66161C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD838E6-2370-4097-8996-208DE66161C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD838E6-2370-4097-8996-208DE66161C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

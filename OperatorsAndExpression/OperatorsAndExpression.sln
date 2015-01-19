@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideBy7And5", "DivideBy7A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rectangle.csproj", "{3B5AB9AE-BBD8-49AF-8820-03959D69A4D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdDigit7", "ThirdDigit7\ThirdDigit7.csproj", "{5B1F2160-E0F1-4C96-889A-363E904154BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3B5AB9AE-BBD8-49AF-8820-03959D69A4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B5AB9AE-BBD8-49AF-8820-03959D69A4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B5AB9AE-BBD8-49AF-8820-03959D69A4D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B1F2160-E0F1-4C96-889A-363E904154BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B1F2160-E0F1-4C96-889A-363E904154BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B1F2160-E0F1-4C96-889A-363E904154BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B1F2160-E0F1-4C96-889A-363E904154BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

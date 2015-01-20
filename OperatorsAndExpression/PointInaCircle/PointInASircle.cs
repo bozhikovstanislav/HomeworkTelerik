@@ -41,7 +41,10 @@ namespace PointInaCircle
                 //enterCordinat.x = x1;
                 //enterCordinat.y = y1;
 
-              double  rTemp = Math.Sqrt((Math.Pow(x1, 2)) + Math.Pow(y1, 2));
+                //Temporary R radius
+                double  rTemp = Math.Sqrt((Math.Pow(x1, 2)) + Math.Pow(y1, 2));
+               
+                //Condition when the point is in the circle
                 if(rTemp<=r)
                 {
                     Console.WriteLine("The point with cordinats ({0},{1}) is IN the Circle with Radius r={2}",x1,y1,r);

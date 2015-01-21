@@ -81,8 +81,9 @@ namespace PointCercleRecangle
                 double angleTemp = Math.Tanh((y1 / x1));
 
                 //Defining the sector in polar coordinats
-                double angleSectorStart = Math.Tanh((1 / 1.5));
-                double angleSectorEnd = Math.Tanh((1.5 / 1));
+                double angleSectorStart = Math.Tanh((1 / 2.5));
+
+                double angleSectorEnd = Math.Tanh((1 / -0.5));
 
                 //Condition when the point is in the circle
                 if (rTemp <= r && (angleTemp>angleSectorStart   &&  angleTemp>angleSectorEnd) )

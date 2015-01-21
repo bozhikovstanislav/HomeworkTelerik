@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractBit", "ExtractBit\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckABit", "CheckABit\CheckABit.csproj", "{0F9F8A2B-F444-49BE-B302-22A5C2AE967B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModifyBit", "ModifyBit\ModifyBit.csproj", "{904BE9E7-E71D-4F79-BDE3-FC337376025D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{0F9F8A2B-F444-49BE-B302-22A5C2AE967B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F9F8A2B-F444-49BE-B302-22A5C2AE967B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F9F8A2B-F444-49BE-B302-22A5C2AE967B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904BE9E7-E71D-4F79-BDE3-FC337376025D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904BE9E7-E71D-4F79-BDE3-FC337376025D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904BE9E7-E71D-4F79-BDE3-FC337376025D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904BE9E7-E71D-4F79-BDE3-FC337376025D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

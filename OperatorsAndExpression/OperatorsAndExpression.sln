@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointCercleRecangle", "Poin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseExtractBit3", "BitwiseExtractBit3\BitwiseExtractBit3.csproj", "{613308B8-CA84-46AD-BF82-A5CCE2AA1DA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractBit", "ExtractBit\ExtractBit.csproj", "{A58C87A2-870B-49D8-925A-397A2E2802B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{613308B8-CA84-46AD-BF82-A5CCE2AA1DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{613308B8-CA84-46AD-BF82-A5CCE2AA1DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{613308B8-CA84-46AD-BF82-A5CCE2AA1DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A58C87A2-870B-49D8-925A-397A2E2802B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58C87A2-870B-49D8-925A-397A2E2802B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58C87A2-870B-49D8-925A-397A2E2802B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58C87A2-870B-49D8-925A-397A2E2802B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

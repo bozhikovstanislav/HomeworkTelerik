@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolInOut", "ConsolInOut\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyInfo", "CompanyInfo\CompanyInfo.csproj", "{82DF153B-9E3B-450B-95CD-5E8F898E32F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CirclePerimeterArea", "CirclePerimeterArea\CirclePerimeterArea.csproj", "{C97DB6BA-E56D-4AAA-87AB-1BFFBC082D8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{82DF153B-9E3B-450B-95CD-5E8F898E32F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82DF153B-9E3B-450B-95CD-5E8F898E32F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82DF153B-9E3B-450B-95CD-5E8F898E32F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C97DB6BA-E56D-4AAA-87AB-1BFFBC082D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97DB6BA-E56D-4AAA-87AB-1BFFBC082D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97DB6BA-E56D-4AAA-87AB-1BFFBC082D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97DB6BA-E56D-4AAA-87AB-1BFFBC082D8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

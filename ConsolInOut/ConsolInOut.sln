@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberComparerer", "NumberC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatingNumbers", "FormatingNumbers\FormatingNumbers.csproj", "{787C1F64-8CB8-4807-B726-ACBAF339312A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{FEE879C0-B548-446E-8883-D2434DD40AD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{787C1F64-8CB8-4807-B726-ACBAF339312A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{787C1F64-8CB8-4807-B726-ACBAF339312A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{787C1F64-8CB8-4807-B726-ACBAF339312A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE879C0-B548-446E-8883-D2434DD40AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE879C0-B548-446E-8883-D2434DD40AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE879C0-B548-446E-8883-D2434DD40AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE879C0-B548-446E-8883-D2434DD40AD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

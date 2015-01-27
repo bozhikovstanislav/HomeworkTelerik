@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingNumbers", "SortingNu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitAsWords", "DigitAsWords\DigitAsWords.csproj", "{B06D398E-B95E-4883-8CF7-F5B02660DF17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigestOfTree", "BigestOfTree\BigestOfTree.csproj", "{9349218C-C528-46A5-85C0-844CAC99F21F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B06D398E-B95E-4883-8CF7-F5B02660DF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B06D398E-B95E-4883-8CF7-F5B02660DF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B06D398E-B95E-4883-8CF7-F5B02660DF17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9349218C-C528-46A5-85C0-844CAC99F21F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9349218C-C528-46A5-85C0-844CAC99F21F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9349218C-C528-46A5-85C0-844CAC99F21F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9349218C-C528-46A5-85C0-844CAC99F21F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

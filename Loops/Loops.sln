@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{A6849798-D386-4AD9-96B2-E9FF5A347568}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotDivisibalBy3And7", "NotDivisibalBy3And7\NotDivisibalBy3And7.csproj", "{CF9F80FC-6CA8-4F3D-B6AE-E643626856B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A6849798-D386-4AD9-96B2-E9FF5A347568}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6849798-D386-4AD9-96B2-E9FF5A347568}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6849798-D386-4AD9-96B2-E9FF5A347568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF9F80FC-6CA8-4F3D-B6AE-E643626856B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9F80FC-6CA8-4F3D-B6AE-E643626856B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9F80FC-6CA8-4F3D-B6AE-E643626856B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9F80FC-6CA8-4F3D-B6AE-E643626856B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

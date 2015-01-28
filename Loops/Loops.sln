@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NK", "NK\NK.csproj", "{60AB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem7", "Problem7\Problem7.csproj", "{4AC0C1A9-E1CB-4527-8CFF-26FF10F5B68C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalanNumber", "CatalanNumber\CatalanNumber.csproj", "{9E4783E1-B1F1-4A82-9563-90C671A4A275}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{4AC0C1A9-E1CB-4527-8CFF-26FF10F5B68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AC0C1A9-E1CB-4527-8CFF-26FF10F5B68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AC0C1A9-E1CB-4527-8CFF-26FF10F5B68C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E4783E1-B1F1-4A82-9563-90C671A4A275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4783E1-B1F1-4A82-9563-90C671A4A275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4783E1-B1F1-4A82-9563-90C671A4A275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4783E1-B1F1-4A82-9563-90C671A4A275}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

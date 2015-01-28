@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckOfCard", "DeckOfCard\De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem5Calculate", "Problem5Calculate\Problem5Calculate.csproj", "{7D5742CE-F0EF-4B45-9AED-1B7CAEA79D45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NK", "NK\NK.csproj", "{60AB6241-6D5D-4ABD-B923-42F2C8BE0BB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7D5742CE-F0EF-4B45-9AED-1B7CAEA79D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D5742CE-F0EF-4B45-9AED-1B7CAEA79D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D5742CE-F0EF-4B45-9AED-1B7CAEA79D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60AB6241-6D5D-4ABD-B923-42F2C8BE0BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AB6241-6D5D-4ABD-B923-42F2C8BE0BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AB6241-6D5D-4ABD-B923-42F2C8BE0BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AB6241-6D5D-4ABD-B923-42F2C8BE0BB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

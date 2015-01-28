@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigestOfTree", "BigestOfTre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleandString", "DoubleandString\DoubleandString.csproj", "{4BDA9F74-8234-46F0-B6E8-D40F34ED913D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingNumbers", "SortingNumbers\SortingNumbers.csproj", "{DC742EC1-0688-4920-B6DE-DF1258323FCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{4BDA9F74-8234-46F0-B6E8-D40F34ED913D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BDA9F74-8234-46F0-B6E8-D40F34ED913D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BDA9F74-8234-46F0-B6E8-D40F34ED913D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC742EC1-0688-4920-B6DE-DF1258323FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC742EC1-0688-4920-B6DE-DF1258323FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC742EC1-0688-4920-B6DE-DF1258323FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC742EC1-0688-4920-B6DE-DF1258323FCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

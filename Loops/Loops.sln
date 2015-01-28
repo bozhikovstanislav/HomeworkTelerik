@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMinAvera", "MaxMinAvera\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckOfCard", "DeckOfCard\DeckOfCard.csproj", "{AD7EE1AB-F5B6-48F6-B609-3076E87565E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem5Calculate", "Problem5Calculate\Problem5Calculate.csproj", "{7D5742CE-F0EF-4B45-9AED-1B7CAEA79D45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{AD7EE1AB-F5B6-48F6-B609-3076E87565E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD7EE1AB-F5B6-48F6-B609-3076E87565E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD7EE1AB-F5B6-48F6-B609-3076E87565E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D5742CE-F0EF-4B45-9AED-1B7CAEA79D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5742CE-F0EF-4B45-9AED-1B7CAEA79D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5742CE-F0EF-4B45-9AED-1B7CAEA79D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5742CE-F0EF-4B45-9AED-1B7CAEA79D45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionStatment", "ConditionStatment\ConditionStatment.csproj", "{FB7D7D60-ACF8-47E3-9042-C6086C9C8479}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exchange", "ConditionStatment\Exchange.csproj", "{FB7D7D60-ACF8-47E3-9042-C6086C9C8479}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusScore", "BonusScore\BonusScore.csproj", "{2BE74E79-B6DF-4D3E-A551-6F90F3A6EE32}"
 EndProject
@@ -12,8 +12,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationSign", "MultiplicationSign\MultiplicationSign.csproj", "{FF8A0CB4-050B-4F81-A392-764DC768D7F9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigestOf5", "BigestOf3\BigestOf5.csproj", "{AC642545-6ED8-4A18-A1B7-F1550CCFA59F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingNumbers", "SortingNumbers\SortingNumbers.csproj", "{DC742EC1-0688-4920-B6DE-DF1258323FCE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitAsWords", "DigitAsWords\DigitAsWords.csproj", "{B06D398E-B95E-4883-8CF7-F5B02660DF17}"
 EndProject
@@ -47,10 +45,6 @@ Global
 		{AC642545-6ED8-4A18-A1B7-F1550CCFA59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC642545-6ED8-4A18-A1B7-F1550CCFA59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC642545-6ED8-4A18-A1B7-F1550CCFA59F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DC742EC1-0688-4920-B6DE-DF1258323FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DC742EC1-0688-4920-B6DE-DF1258323FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DC742EC1-0688-4920-B6DE-DF1258323FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DC742EC1-0688-4920-B6DE-DF1258323FCE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B06D398E-B95E-4883-8CF7-F5B02660DF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B06D398E-B95E-4883-8CF7-F5B02660DF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B06D398E-B95E-4883-8CF7-F5B02660DF17}.Release|Any CPU.ActiveCfg = Release|Any CPU

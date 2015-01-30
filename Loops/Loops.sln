@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODDandEvenProduct", "ODDand
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumbers", "RandomNumbers\RandomNumbers.csproj", "{533E92C1-2E9C-4875-A287-9F4633463F77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinariToDecmal", "BinariToDecmal\BinariToDecmal.csproj", "{BD741ED2-983F-4B39-98A3-BCDB6E9073B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{533E92C1-2E9C-4875-A287-9F4633463F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{533E92C1-2E9C-4875-A287-9F4633463F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{533E92C1-2E9C-4875-A287-9F4633463F77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD741ED2-983F-4B39-98A3-BCDB6E9073B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD741ED2-983F-4B39-98A3-BCDB6E9073B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD741ED2-983F-4B39-98A3-BCDB6E9073B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD741ED2-983F-4B39-98A3-BCDB6E9073B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

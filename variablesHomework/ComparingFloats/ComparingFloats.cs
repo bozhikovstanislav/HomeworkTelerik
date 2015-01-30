@@ -16,7 +16,7 @@ namespace ComparingFloats
             string aPrecision=String.Format("{0:0.000000}",precision);
             string aPrecisionDotEmpty = new string(aPrecision.Where(char.IsDigit).ToArray());
             //Changing the format of the precision
-
+            
             string presitionA = String.Format("{0:0.000000}", precision);
             //Input from the consol
             Console.WriteLine("Enter a number a = ");

@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinariToDecmal", "BinariToD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalToBinary", "DecimalToBinary\DecimalToBinary.csproj", "{8E521A35-2818-4193-A56A-BC85358A8CDE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaDecimalToDcimal", "HexaDecimalToDcimal\HexaDecimalToDcimal.csproj", "{3FAC6A41-D4FC-4B01-83D1-479082B27763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalToHexadec", "DecimalToHexadec\DecimalToHexadec.csproj", "{9556B8CF-72B1-42C3-B924-ACA847F25E28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{8E521A35-2818-4193-A56A-BC85358A8CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E521A35-2818-4193-A56A-BC85358A8CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E521A35-2818-4193-A56A-BC85358A8CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FAC6A41-D4FC-4B01-83D1-479082B27763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FAC6A41-D4FC-4B01-83D1-479082B27763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FAC6A41-D4FC-4B01-83D1-479082B27763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FAC6A41-D4FC-4B01-83D1-479082B27763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9556B8CF-72B1-42C3-B924-ACA847F25E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9556B8CF-72B1-42C3-B924-ACA847F25E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9556B8CF-72B1-42C3-B924-ACA847F25E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9556B8CF-72B1-42C3-B924-ACA847F25E28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

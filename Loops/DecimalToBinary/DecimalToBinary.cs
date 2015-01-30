@@ -15,10 +15,6 @@ class Program
         Console.WriteLine("Welcom to the Decimal to Binary Converter");
         Console.Write("\n");
         Console.WriteLine("************************************************");
-
-
-
-
         Console.Write("ENTER a number N =");
         string N = Console.ReadLine();
         long numberN;
@@ -42,16 +38,15 @@ class Program
 
         long binnariDigit = 0;
 
-        int count = 0;
+        //initializing the string in which the binari is stored
         string representBin = "";
+
+        //calculating the bin
         while (firstnumber != 0)
         {
             firstnumber = numberN / 2;
             //checkong the remainder
             binnariDigit = numberN % 2;
-         
-            //string binarynumber= Console.ReadLine().Insert(0, binnariDigit.ToString());
-            count++;
             numberN = firstnumber;
             representBin += binnariDigit.ToString();
             if (firstnumber == 0)

@@ -31,6 +31,10 @@ namespace DivideBy7And5
                 {
                     Console.WriteLine(isDevidedby7And5);
                 }
+                else
+                {
+                    Console.WriteLine(isDevidedby7And5);
+                }
              
             }
             if (isNumber == false)
